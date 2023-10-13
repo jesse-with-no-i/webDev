@@ -1,0 +1,38 @@
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* General styles for the entire document */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Styles for the header section */
+header {
+    background: #f4f4f4;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Styles for the main content section */
+main {
+    padding: 20px;
+}
+
+/* Styles for links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Additional custom styles */
+/* Add your additional custom styles here */
